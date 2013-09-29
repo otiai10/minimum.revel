@@ -6,7 +6,7 @@
 
 あとのものは自動的に生成される模様
 
-で、`revel run minimum`
+で、`revel run minimum.revel`
 
 だいたい大事なことはここに
 https://gist.github.com/otiai10/6596982

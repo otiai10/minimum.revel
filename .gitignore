@@ -24,3 +24,9 @@ _cgo_export.*
 _testmain.go
 
 *.exe
+
+#
+# 自動生成するファイルはignoreしといたほうがわかりやすい
+#
+app/routes/*
+app/tmp/*
